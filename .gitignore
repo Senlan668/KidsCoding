@@ -1,0 +1,18 @@
+# 编译产物
+target/
+*.class
+
+# IDE 文件
+.idea/
+*.iml
+.vscode/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 敏感配置（如果将来密码从环境变量读就不需要这个）
+# application.yml
